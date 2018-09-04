@@ -1,0 +1,20 @@
+table, th, td {
+	border: 1px solid black;
+}
+
+td div {
+	height: 25px;
+	width: 25px;
+}
+
+div.unvisited {
+	background-color: green;
+}
+
+div.blocked {
+	background-color: gray;
+}
+
+div.mine {
+	background-color: red;
+}
